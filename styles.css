@@ -1,0 +1,23 @@
+body {
+    font-size: 20px;
+    background-image: url("f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 50px;
+    border: 1px solid #311b1b;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #aaa;
+}
